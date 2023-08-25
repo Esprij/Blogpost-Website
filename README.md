@@ -36,7 +36,7 @@ how it was put together may tell you the opposite.
 This project is an acclamation to the techologies & methods we have learned over the summer of 2023.
 
 1. The program uses an API to generate all the content inside each blog post
-2. Program handles returned data as a JSON type or Python dictionary and clenses data as needed
+2. Program handles returned data as a JSON type or Python dictionary and cleanses data as needed
 3. Flask module is imported and is called to create web application along its routes
-4. With 2 Jinja templates: footer.html and header.html, 6 routes were created 3 of them dynamically automated for each blog-post
-5. On the contact page POST requests can be made thanks to the HTML form that is presented in the page, once the required fileds are filled and submit has been clicked, an HTML form is handled by the program to create an email message and send it to designated recipient within the program
+4. With 2 Jinja templates: footer.html and header.html, 6 routes were created 3 of them dynamically automated for each blogpost
+5. On the contact page POST requests can be made thanks to the HTML form that is presented in the page, once the required fields are filled and submit has been clicked, an HTML form is handled by the program to create an email message and send it to designate recipient within the program
