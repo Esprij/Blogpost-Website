@@ -35,11 +35,11 @@ the blogpost is themed around the life of a surreal pug.
 "index.html ss"
 <br>
 <br>
-Normal user key features:
-1.Read any posts
-2.View comments on any post
-3.Create comments
-4.Send emails
+Normal user key features:<br>
+1.Read any posts<br>
+2.View comments on any post<br>
+3.Create comments<br>
+4.Send emails<br>
 <br>
 <br>
 "post.html ss"
