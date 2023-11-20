@@ -50,8 +50,7 @@ Admin user key features:
 3. Delete posts
 <br>
 “make-post.html ss”
-![image](https://github.com/Esprij/Blogpost-Website/assets/123716215/01744145-8c5d-4cf4-9592-fd7386de6bfe)
-
+![](static/assets/img/make-post-ss.jpg)
 <br>
 <br>
 Communication/contact with the website administrator established through email:
