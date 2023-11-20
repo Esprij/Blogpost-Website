@@ -40,7 +40,7 @@ Normal user key features:<br>
 3.Create comments<br>
 4.Send emails<br>
 <br>
-
+![](static/assets/img/pug-ss.jpg)<br>
 <br>
 <br>
 Admin user key features:<br>
