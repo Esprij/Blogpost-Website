@@ -29,31 +29,29 @@ A blogpost website with a Full-Stack architecture, a manifestation of everything
 
 ## A look at the website:
 Website UI dependent on CSS Bootstrap and JavaScript, 
-the blogpost is themed around the life of a surreal pug.
+the blogpost is themed around the life of a surreal pug.<br>
+<br>
+![](static/assets/img/index-ss.jpg)<br>
 <br>
 <br>
-"index.html ss"
+Normal user key features:<br>
+1.Read any posts<br>
+2.View comments on any post<br>
+3.Create comments<br>
+4.Send emails<br>
+<br>
+![](static/assets/img/post-ss.jpg)<br>
 <br>
 <br>
-Normal user key features:
-1. Read any posts
-2. View comments on any post
-3. Create comments
-4. Send emails
+Admin user key features:<br>
+1.Create posts<br>
+2.Update posts<br>
+3.Delete posts<br>
 <br>
-"post.html ss"
-<br>
-<br>
-Admin user key features:
-1. Create posts
-2. Update posts
-3. Delete posts
-<br>
-“make-post.html ss”
-![](static/assets/img/make-post-ss.jpg)
+![](static/assets/img/make-post-ss.jpg)<br>
 <br>
 <br>
 Communication/contact with the website administrator established through email:
 <br>
 <br>
- “contact.html ss"
+![](static/assets/img/contact-ss.jpg)<br>
