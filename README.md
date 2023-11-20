@@ -35,23 +35,23 @@ the blogpost is themed around the life of a surreal pug.
 "index.html ss"
 <br>
 <br>
-Normal user key features:<br>
-1.Read any posts<br>
-2.View comments on any post<br>
-3.Create comments<br>
-4.Send emails<br>
-<br>
+Normal user key features:
+1. Read any posts
+2. View comments on any post
+3. Create comments
+4. Send emails
 <br>
 "post.html ss"
 <br>
 <br>
 Admin user key features:
-1.Create posts<br>
-2.Update posts<br>
-3.Delete posts<br>
-<br>
+1. Create posts
+2. Update posts
+3. Delete posts
 <br>
 “make-post.html ss”
+![image](https://github.com/Esprij/Blogpost-Website/assets/123716215/01744145-8c5d-4cf4-9592-fd7386de6bfe)
+
 <br>
 <br>
 Communication/contact with the website administrator established through email:
