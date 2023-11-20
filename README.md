@@ -1,21 +1,17 @@
 # Blog-Post-site
-A website that is designed for blog posting, 
-please keep in mind that this is just a template and no content within this website is relevant.
+A blogpost website with a Full-Stack architecture, a manifestation of everything we have learned this year.
 
 ## Technologies/Libraires & Modules used:
 <ul>
-  <li>HTML requests</li>
-  <li>HTML forms</li>
-  <li>CSRF tokens</li>
-  <li>API routing</li>
-  <li>Bootstrap</li>
+  <li>Python</li>
+  <li>CSS Bootstrap</li>
+  <li>JavaScript</li>
   <li>Flask</li>
   <li>Jinja</li>
-  <li>SMTPlib</li>
-  <li>Python</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JS</li>
+  <li>SQL_Alchemy</li>
+  <li>PostgreSQL</li>
+  <li>SMTPlib (email communication)</li>
+  <li>OS (.env variables)</li>
 </ul>
 
 ## What was learned/practiced:
