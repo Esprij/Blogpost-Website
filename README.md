@@ -35,20 +35,20 @@ the blogpost is themed around the life of a surreal pug.
 "index.html ss"
 <br>
 <br>
-Normal user key features:
-Read any posts 
-View comments on any post
-Create comments
-Send emails
+Normal user key features:<br>
+Read any posts<br>
+View comments on any post<br>
+Create comments<br>
+Send emails<br>
 <br>
 <br>
 "post.html ss"
 <br>
 <br>
 Admin user key features:
-Create posts
-Update posts
-Delete posts
+Create posts<br>
+Update posts<br>
+Delete posts<br>
 <br>
 <br>
 “make-post.html ss”
